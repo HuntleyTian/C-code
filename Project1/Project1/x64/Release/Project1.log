@@ -1,0 +1,14 @@
+﻿  源.cpp
+E:\C语言学习\Ccode\Project1\源.cpp(18,19): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“float *”
+E:\C语言学习\Ccode\Project1\源.cpp(26,33): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C语言学习\Ccode\Project1\源.cpp(28,33): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C语言学习\Ccode\Project1\源.cpp(30,30): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+E:\C语言学习\Ccode\Project1\源.cpp(32,37): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\C语言学习\Ccode\Project1\源.cpp(37,31): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+E:\C语言学习\Ccode\Project1\源.cpp(41,12): warning C4477: “printf”: 格式字符串“%.2f”需要类型“double”的参数，但可变参数 1 拥有了类型“int”
+  正在生成代码
+  1 of 7 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Project1.vcxproj -> E:\C语言学习\Ccode\Project1\x64\Release\Project1.exe
